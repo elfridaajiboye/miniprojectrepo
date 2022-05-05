@@ -1,0 +1,23 @@
+
+html{
+    background-color: blanchedalmond;
+}
+
+.move{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+}
+.and{
+    display: flex;
+justify-content: center;
+}
+.btn{
+    color: purple;
+    border-radius: 10px;
+    padding: 10px;
+    border: 10px 10px;
+    border-color: black;
+}
