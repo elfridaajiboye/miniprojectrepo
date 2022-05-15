@@ -1,0 +1,9 @@
+html{
+    background-color: blanchedalmond;
+}
+table,td,th{
+border: 2px solid blueviolet;
+border-collapse: collapse;
+padding-right: 60px;
+padding-left: 40px;
+}
